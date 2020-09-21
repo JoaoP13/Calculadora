@@ -1,0 +1,23 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servidor.js",
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node servidor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoP13/Calculadora.git"
+  },
+  "author": "Joao Paulo Gonçalves de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoP13/Calculadora/issues"
+  },
+  "homepage": "https://github.com/JoaoP13/Calculadora#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -96,6 +96,7 @@ const calculadora = {
 	// Coloca o texto que está no botão no display
 	botaoParaDisplay(texto) {
 		this.display.value += texto;
+		this.display.focus();
 	},
 };
 
